@@ -1,6 +1,8 @@
 XpressEngine
 ============
 
+[![Join the chat at https://gitter.im/CloudXE/xe-core](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CloudXE/xe-core?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/xpressengine/xe-core.svg?branch=master)](https://travis-ci.org/xpressengine/xe-core)
 [![License](http://img.shields.io/badge/license-GNU%20LGPL-brightgreen.svg)](http://www.gnu.org/licenses/gpl.html)
 [![Latest release](http://img.shields.io/github/release/xpressengine/xe-core.svg)](https://github.com/xpressengine/xe-core/releases)
